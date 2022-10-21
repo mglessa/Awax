@@ -269,3 +269,15 @@ DETAILS
     width:400px;
     border-radius: 20px;
 }
+
+@media (max-width:600px){
+
+    header{
+        font-size:15px;
+    }
+
+    .section-products-area{
+        width: 100vw;
+    }
+
+    }
